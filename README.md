@@ -4,3 +4,5 @@ The objective of this project is to analyse the who-trust-whom network among the
 
 The analysis tells us which members are the most influential and trusted most in the network. The analysis includes various centrality measures and clustering algorithms.
 
+NOTE : The network does not reveal any names of members and instead each of them are referred to using a unique number. 
+
